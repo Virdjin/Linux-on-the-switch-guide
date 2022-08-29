@@ -1,6 +1,6 @@
 # Linux on switch
 ## Part one
-Hello, there's a couple prerequisites before we start the guide. First, you need a hack switch and I can link you a guide on here if you don't already have one or I could potentially make one down the line. I'll leave a link to the guide right here. We need to get a special distro for the Nintendo switch called "LT4 switchroot". [Guide](https://switch.homebrew.guide/gettingstarted/beforestarting.html)  [L4T Distro](https://download.switchroot.org/ubuntu/)
+Hello, there's a couple prerequisites before we start the guide. First, you need a hack switch and I can link you a guide on here if you don't already have one or I could potentially make one down the line. I'll leave a link to the guide right here. We need to get a special distro for the Nintendo switch called "LT4 switchroot". [Guide](https://switch.homebrew.guide/gettingstarted/beforestarting.html)          [L4T Distro](https://download.switchroot.org/ubuntu/)
 
 ![l4t pic 1](https://user-images.githubusercontent.com/106455334/187169884-5e4370d2-db9a-4622-8023-3a016bcec4e4.jpg)
 
